@@ -29,7 +29,6 @@ A curated, professional showcase of my **C++ learning journey** through the clas
 - [Build & Run](#build--run)
 - [Coding Standards](#coding-standards)
 - [Notes](#notes)
-- [License](#license)
 
 ---
 
@@ -177,10 +176,3 @@ make re
 
 - These projects are educational. If you spot an improvement opportunity (performance, readability, safety), feel free to open an issue or PR.
 
----
-
-## License
-
-This repository is shared for learning and portfolio purposes.
-
-- If you want a formal license: add a `LICENSE` file (MIT recommended) and update the badge above accordingly.
